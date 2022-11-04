@@ -6,6 +6,6 @@ app.get('/', (req, res) => {
     const a = 2;
     const b = 3;
     const c = a / b
-  res.send('hello world abcad')
+  res.send('hello world abvvv')
 })
 app.listen(port, () => console.log(`localhost:${port}`))
